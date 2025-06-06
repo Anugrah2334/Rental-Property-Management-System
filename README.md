@@ -1,4 +1,3 @@
-# CSMProject
 # Deploying a Three-Tier Architecture on AWS with VPC
 
 ![Example](https://github.com/Anugrah2334/Rental-Property-Management-System/blob/main/Screenshot%201.png)
